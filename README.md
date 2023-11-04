@@ -2,7 +2,7 @@
 
 Welcome to the Apertre Native Project repository! This project is a mobile app developed using React Native to create a Virtual Galaxy Explorer. You can explore distant galaxies and learn more about our universe from the comfort of your mobile device.
 
-![Virtual Galaxy Explorer](https://www.figma.com/community/file/1300563537040334699)
+[Link to the Figma File](https://www.figma.com/community/file/1300563537040334699)
 
 ## Table of Contents
 
