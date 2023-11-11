@@ -1,8 +1,11 @@
+![logo](./assets/logo.jpeg)
+
 # Apertre Native Project
 
-Welcome to the Apertre Native Project repository! This project is a mobile app developed using React Native to create a Virtual Galaxy Explorer. You can explore distant galaxies and learn more about our universe from the comfort of your mobile device.
+Welcome to the Apertre Native Project repository! This project is a mobile app developed using React Native to create a HR Management App. You can explore distant galaxies and learn more about our universe from the comfort of your mobile device.
 
-[Link to the Figma File](https://www.figma.com/community/file/1300563537040334699)
+[Link to the Figma File](https://www.figma.com/file/BcdFJ2rBOjHrfErmzddWCi/Talento-HR-Management-App?type=design&node-id=0%3A1&mode=design&t=iAQibcKkxC9x1WQn-1)
+
 
 ## Table of Contents
 
@@ -17,12 +20,12 @@ Welcome to the Apertre Native Project repository! This project is a mobile app d
 
 ## Introduction
 
-The Apertre Native Project is a mobile application built with React Native. It is designed to bring the wonders of the universe closer to you by offering a Virtual Galaxy Explorer. You can explore various galaxies, view stunning celestial objects, and learn about the universe's mysteries, all within this app.
+The Apertre Native Project is a mobile application built with React Native. It is designed to bring the wonders of the universe closer to you by offering a HR Management App. You can explore various galaxies, view stunning celestial objects, and learn about the universe's mysteries, all within this app.
 
 ## Features
 
-- Explore different galaxies and celestial objects.
-- Learn about stars, planets, black holes, and other cosmic phenomena.
+- Learn about HR Management.
+- Practice Mobile Development
 - Beautiful and interactive user interface.
 - Smooth navigation and animations.
 - User-friendly and intuitive design.
@@ -45,13 +48,13 @@ Before you begin, make sure you have the following software installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/apertre-native-project.git
+   git clone https://github.com/your-username/apertre_nativeproject.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd apertre-native-project
+   cd apertre_nativeproject
    ```
 
 3. Install the project dependencies:
@@ -74,7 +77,7 @@ Before you begin, make sure you have the following software installed:
 
 ## Usage
 
-Once you have the app running, you can start exploring the virtual galaxy. Use the app's features to learn more about different galaxies, celestial objects, and the mysteries of the universe.
+Once you have the app running, you can start exploring the folders and codes. Use the app's features to make HR's work easy to manage their work.
 
 ## Contributing
 
