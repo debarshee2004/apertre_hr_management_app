@@ -1,8 +1,8 @@
 ![logo](../assets/logo.jpg)
 
-# Labels Used in APERTRE - OPEN SOURCE : WEB DEVELOPMENT
+# Labels Used in APERTRE - OPEN SOURCE : NATIVE PROJECT
 
-Below is a list of labels used in the "APERTRE - OPEN SOURCE : WEB DEVELOPMENT" repository along with their descriptions. These labels are used to categorize and prioritize issues, pull requests, and other items in the repository.
+Below is a list of labels used in the "APERTRE - OPEN SOURCE : NATIVE PROJECT" repository along with their descriptions. These labels are used to categorize and prioritize issues, pull requests, and other items in the repository.
 
 ## Issue Labels
 

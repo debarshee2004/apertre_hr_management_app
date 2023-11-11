@@ -1,8 +1,8 @@
 ![logo](../assets/logo.jpg)
 
-# APERTRE - OPEN SOURCE : WEB DEVELOPMENT Pull Requests
+# APERTRE - OPEN SOURCE : NATIVE PROJECT Pull Requests
 
-This document provides a history of both open and closed pull requests for the APERTRE - OPEN SOURCE : WEB DEVELOPMENT repository, along with their respective commit IDs.
+This document provides a history of both open and closed pull requests for the APERTRE - OPEN SOURCE : NATIVE PROJECT repository, along with their respective commit IDs.
 
 ## Open Pull Requests
 
@@ -33,8 +33,8 @@ This document provides a history of both open and closed pull requests for the A
 - Status: Closed -->
 
 
-We appreciate your contributions and look forward to your involvement in our open source web development community!
+We appreciate your contributions and look forward to your involvement in our open source NATIVE PROJECT community!
 
 ---
 
-This document serves as a record of pull requests, both open and closed, with their commit IDs for the APERTRE - OPEN SOURCE : WEB DEVELOPMENT repository.
+This document serves as a record of pull requests, both open and closed, with their commit IDs for the APERTRE - OPEN SOURCE : NATIVE PROJECT repository.

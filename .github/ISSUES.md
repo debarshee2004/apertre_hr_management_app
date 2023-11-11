@@ -1,8 +1,8 @@
 ![logo](../assets/logo.jpg)
 
-# APERTRE - OPEN SOURCE : WEB DEVELOPMENT Issue Log
+# APERTRE - OPEN SOURCE : NATIVE PROJECT Issue Log
 
-Below is a manually maintained log of open and closed issues for the "APERTRE - OPEN SOURCE : WEB DEVELOPMENT" repository. This list includes the issue title, issue number, and commit IDs associated with each issue.
+Below is a manually maintained log of open and closed issues for the "APERTRE - OPEN SOURCE : NATIVE PROJECT" repository. This list includes the issue title, issue number, and commit IDs associated with each issue.
 
 ## Open Issues
 
