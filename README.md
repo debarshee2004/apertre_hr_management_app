@@ -6,7 +6,7 @@ Welcome to the Apertre Native Project repository! This project is a mobile app d
 
 [Link to the Figma File](https://www.figma.com/file/BcdFJ2rBOjHrfErmzddWCi/Talento-HR-Management-App?type=design&node-id=0%3A1&mode=design&t=iAQibcKkxC9x1WQn-1)
 
-`*** Note: Since this is a community project, your contributions will go toward an open-source software project rather than someone else's project, allowing you to use pull requests and issues to learn more and contribute more.***`
+`Note: Since this is a community project, your contributions will go toward an open-source software project rather than someone else's project, allowing you to use pull requests and issues to learn more and contribute more.`
 
 
 ## Table of Contents
