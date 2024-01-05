@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { IntroScreen } from './src/screens/IntroScreen';
 import {useFonts} from 'expo-font';
 import { Loading } from './src/screens/Loading';
+import { Welcome } from './src/screens/Welcome';
 
 export default function App() {
   // Loading Fonts 
@@ -20,7 +21,8 @@ export default function App() {
   // If loaded then go to main screens
   return (
     <View style={styles.container}>
-      <IntroScreen />
+      {/* <IntroScreen /> */}
+      <Welcome/>
       <StatusBar style="auto" />
     </View>
   );
