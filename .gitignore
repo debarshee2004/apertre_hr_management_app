@@ -43,3 +43,7 @@ package-lock.json
 
 # Ignore Yarn-specific files
 yarn-error.log
+
+# Expo package
+
+/.expo

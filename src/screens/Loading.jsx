@@ -4,7 +4,7 @@ import { SafeAreaView, StyleSheet, Text, View, ActivityIndicator } from 'react-n
 // Expo Vector icon library
 import { AntDesign } from '@expo/vector-icons';
 
-export const Landing = () => {
+export const Loading = () => {
     const { container, subContainer, loading } = styles
     return (
         <SafeAreaView style={container}>
