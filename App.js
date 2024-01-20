@@ -4,6 +4,7 @@ import { IntroScreen } from './src/screens/IntroScreen';
 import {useFonts} from 'expo-font';
 import { Loading } from './src/screens/Loading';
 import { Welcome } from './src/screens/Welcome';
+import { SignupScreen } from './src/screens/SignupScreen';
 
 export default function App() {
   // Loading Fonts 
@@ -22,7 +23,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       {/* <IntroScreen /> */}
-      <Welcome/>
+      {/* <Welcome/> */}
+      <SignupScreen />
       <StatusBar style="auto" />
     </View>
   );
